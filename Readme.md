@@ -1,2 +1,1 @@
-(CodeWars)[https://www.codewars.com/users/Ciumax]
-[https://www.codewars.com/users/Ciumax/badges/large]
+[<img src="https://www.codewars.com/users/Ciumax/badges/large" />](https://www.codewars.com/users/Ciumax)
