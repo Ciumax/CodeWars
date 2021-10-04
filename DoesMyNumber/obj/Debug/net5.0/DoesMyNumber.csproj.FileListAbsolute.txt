@@ -1,0 +1,16 @@
+F:\CodeWars\DoesMyNumber\obj\Debug\net5.0\DoesMyNumber.csproj.AssemblyReference.cache
+F:\CodeWars\DoesMyNumber\obj\Debug\net5.0\DoesMyNumber.GeneratedMSBuildEditorConfig.editorconfig
+F:\CodeWars\DoesMyNumber\obj\Debug\net5.0\DoesMyNumber.AssemblyInfoInputs.cache
+F:\CodeWars\DoesMyNumber\obj\Debug\net5.0\DoesMyNumber.AssemblyInfo.cs
+F:\CodeWars\DoesMyNumber\obj\Debug\net5.0\DoesMyNumber.csproj.CoreCompileInputs.cache
+F:\CodeWars\DoesMyNumber\bin\Debug\net5.0\DoesMyNumber.exe
+F:\CodeWars\DoesMyNumber\bin\Debug\net5.0\DoesMyNumber.deps.json
+F:\CodeWars\DoesMyNumber\bin\Debug\net5.0\DoesMyNumber.runtimeconfig.json
+F:\CodeWars\DoesMyNumber\bin\Debug\net5.0\DoesMyNumber.runtimeconfig.dev.json
+F:\CodeWars\DoesMyNumber\bin\Debug\net5.0\DoesMyNumber.dll
+F:\CodeWars\DoesMyNumber\bin\Debug\net5.0\ref\DoesMyNumber.dll
+F:\CodeWars\DoesMyNumber\bin\Debug\net5.0\DoesMyNumber.pdb
+F:\CodeWars\DoesMyNumber\obj\Debug\net5.0\DoesMyNumber.dll
+F:\CodeWars\DoesMyNumber\obj\Debug\net5.0\ref\DoesMyNumber.dll
+F:\CodeWars\DoesMyNumber\obj\Debug\net5.0\DoesMyNumber.pdb
+F:\CodeWars\DoesMyNumber\obj\Debug\net5.0\DoesMyNumber.genruntimeconfig.cache
