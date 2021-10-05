@@ -24,3 +24,4 @@ class AreTheySame
             return true;
     }
 }
+
