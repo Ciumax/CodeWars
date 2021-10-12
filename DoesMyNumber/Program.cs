@@ -25,4 +25,4 @@ public class Kata
             return (int) Math.Pow(x, pow);
         }
 }
-}
+
