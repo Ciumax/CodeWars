@@ -14,7 +14,7 @@ namespace SumStringAsNumbers
             if(String.IsNullOrEmpty(a)) a = "0";
             if(String.IsNullOrEmpty(b)) b = "0";
             var bigNumber = BigInteger.Parse(a) + BigInteger.Parse(b);
-            string answer = number + "";
+            string answer = bigNumber + "";
             return answer;
         }
     }
