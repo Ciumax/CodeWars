@@ -22,14 +22,12 @@ namespace Rot13
                 {
                     temp += (char) value;
                     if (temp > 122) temp -= (char) max;
-                    Console.WriteLine (temp);
                     answer += temp;
                 }
                 else if (temp >= 65 && temp <= 90)
                 {
                     temp += (char) value;
                     if (temp > 90) temp -= (char) max;
-                    Console.WriteLine (temp);
                     answer += temp;
                 }
                 else
@@ -37,7 +35,6 @@ namespace Rot13
                     answer += temp;
                 }
             }
-            Console.WriteLine (answer);
             return answer;
         }
     }
