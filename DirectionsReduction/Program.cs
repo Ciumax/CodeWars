@@ -12,7 +12,6 @@ namespace DirectionsReduction
         public static string[] dirReduc(String[] arr)
         {
             List<string> temp = new List<string>(arr);
-            bool deleted = false;
             for (int i = 0; i < temp.Count; i++)
             {
                 Console.WriteLine(temp[i]);
